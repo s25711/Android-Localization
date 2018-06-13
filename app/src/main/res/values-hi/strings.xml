@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">एंड्रॉइड लोकलाइजेशन</string>
+    <string name="activity_name">भाषा चुनिए</string>
+    <string name="text">मैं लकोलाइजेशन सीख रहा हूँ</string>
+    <string name="signin">साइन इन करें</string>
+    <string name="email_hint">ईमेल</string>
+    <string name="password_hint">पारण शब्द</string>
+    <string name="sign_up_link_text">अभी तक कोई खाता नहीं है? एक बनाए</string>
+</resources>

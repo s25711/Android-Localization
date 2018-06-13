@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Localization</string>
+    <string name="activity_name">Select language</string>
+    <string name="text">I am learning lcoalization</string>
+    <string name="signin">Sign In</string>
+    <string name="login_text">Login</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_up_link_text">No account yet? Create one</string>
+</resources>

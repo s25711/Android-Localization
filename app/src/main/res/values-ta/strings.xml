@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Android உள்ளூராக்கல்</string>
+    <string name="activity_name">மொழியைத் தேர்ந்தெடு</string>
+    <string name="text">நான் lcoalization கற்று</string>
+    <string name="signin">உள்நுழைக</string>
+    <string name="email_hint">மின்னஞ்சல்</string>
+    <string name="password_hint">கடவுச்சொல்</string>
+    <string name="sign_up_link_text">இன்னும் கணக்கு இல்லை ஒன்றை உருவாக்கவும்</string>
+</resources>

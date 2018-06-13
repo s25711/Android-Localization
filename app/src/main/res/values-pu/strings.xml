@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Android ਸਥਾਨਕਕਰਨ</string>
+    <string name="activity_name">ਭਾਸ਼ਾ ਚੁਣੋ</string>
+    <string name="text">ਮੈਂ ਲੌਲਾਇਲਾਜਿੰਗ ਸਿੱਖ ਰਿਹਾ ਹਾਂ</string>
+    <string name="signin">ਸਾਈਨ - ਇਨ</string>
+    <string name="email_hint">ਈ - ਮੇਲ</string>
+    <string name="password_hint">ਪਾਸਵਰਡ</string>
+    <string name="sign_up_link_text">ਅਜੇ ਕੋਈ ਖਾਤਾ ਨਹੀਂ ਹੈ? ਇੱਕ ਬਣਾਓ</string>
+
+</resources>
